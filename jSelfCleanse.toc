@@ -1,0 +1,7 @@
+## Interface: 90100
+## Title: jSelfCleanse
+## Notes: Light up any ability on your hotbar that can cleanse an active debuff type (eg. poison, curse).
+## Version: 1.0
+## Author: jwldnr
+
+jSelfCleanse.lua
